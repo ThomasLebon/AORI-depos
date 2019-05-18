@@ -1,6 +1,6 @@
 # Les écrans tactiles
 ## Bienvenue sur mon site
-Vous pouvez trouver une page [ici](url), il vous explique ce que c'est un **écran tactile**.\
+ce site internet a comme  explique ce que c'est un **écran tactile**.\
 \
 Sur cette page vous pouvez trouvé ici en desous des liens qui vont vous diriger vers d'autre partie du site. 
 1. [Définition](definition.md)
