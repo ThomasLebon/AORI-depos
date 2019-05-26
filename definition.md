@@ -2,7 +2,7 @@
 ## Définition
 Vous étes dans la partie définition. 
 
-Retour à l'[accueil](tactiles.md).
+Retour à l'[Accueil](tactiles.md).
 
 - **Définition**
 - [Types](types.md)
