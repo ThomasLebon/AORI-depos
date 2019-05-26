@@ -1,5 +1,5 @@
 # Les écrans tactiles
-## le fonctionnement
+## Le fonctionnement
 
 Retour à l'[Accueil](tactiles.md).
 - [Définition](definition.md)
