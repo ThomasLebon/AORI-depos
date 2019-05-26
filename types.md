@@ -1,7 +1,7 @@
 # Les écrans tactiles
 ## Types
 Retour à l'[Accueil](tactiles.md).\
-\
+
 - [Définition](definition.md)
 - **Les types**
 - Les [fonctionnements](fonctionnement.md)
