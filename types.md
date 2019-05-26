@@ -3,8 +3,8 @@
 Retour à l'[Accueil](tactiles.md).\
 
 - [Définition](definition.md)
-- **Les types**
-- Les [fonctionnements](fonctionnement.md)
+- **Types**
+- [Fonctionnements](fonctionnement.md)
 \
 Dans cette partie de mon site vous pouvez trouvé les différents types d'écran tactile et aussi leur utilité, mais aussi leur fonctionnement.\
 1.\
