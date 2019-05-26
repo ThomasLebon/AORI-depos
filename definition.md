@@ -17,3 +17,8 @@ ecran tactile , locution adjectivale\
 (...)\
 Un écran tactile est un moniteur informatique, télévisuel ou téléphonique qui réagit au contact des doigts et permet de ne pas se servir d'une souris ou d'un stylet afin de déclencher des programmes.
 Exemple : Mon smartphone est équipé d'un écran tactile."
+
+
+
+
+
