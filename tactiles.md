@@ -1,6 +1,7 @@
 # Les écrans tactiles
-## Accueil
+## L'accueil
 Bienvenue sur mon site\
+Vous étes à l'accueil de mon site\
 Ce site internet vous aidera a comprendre ce-que-c'est un **écran tactile**.\
 \
 Sur cette page vous pouvez trouvé ci-desous des liens qui vont vous diriger vers d'autre partie du site.\
