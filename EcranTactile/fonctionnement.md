@@ -11,9 +11,9 @@ Retour à l'[Accueil](tactiles.md).
 
 
 
-(6.) Thierry. Les différents modèles de stylet pour écran interactif. Dans : Speechi [en ligne]. [s. d.]. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.speechi.net/fr/2019/04/16/stylet-pour-ecran-interactif/
+(6.) IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Histoire](histoire.md) et [Types](types.md)
 
-
+![Les fonctionnements d'écran tactile](https://user-images.githubusercontent.com/50197114/58490179-f6e27c80-816c-11e9-857f-b73d2ab7ef16.png)
 
 14. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
 
