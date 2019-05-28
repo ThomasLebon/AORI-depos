@@ -8,6 +8,7 @@ Sur cette page vous pouvez trouvé ci-desous des liens qui vont vous diriger ver
 Qui vous aiderons à la compréension des **écrans tactile**.\
 [Image](src)
 - [Définition](definition.md)
+- [Histoire](histoire.md)
 - [Types](types.md)
 - [Fonctionnements](fonctionnement.md)
 - [Usage](usage.md)
