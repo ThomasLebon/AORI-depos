@@ -12,9 +12,11 @@ Retour à l'[Accueil](tactiles.md).
 Dans cette partie de mon site vous pouvez trouvé les différents types d'écran tactile.\
 Mais aussi de leur spécificité et de leur style.
 
-(6.) Thierry. Les différents modèles de stylet pour écran interactif. Dans : Speechi [en ligne]. [s. d.]. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.speechi.net/fr/2019/04/16/stylet-pour-ecran-interactif/
+7. Thierry. Les différents modèles de stylet pour écran interactif. Dans : Speechi [en ligne]. [s. d.]. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.speechi.net/fr/2019/04/16/stylet-pour-ecran-interactif/
 
-7. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html
+(6.) TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Histoire](histoire.md) et [Fonctionnements](fonctionnement.md)
+
+![Types](https://user-images.githubusercontent.com/50197114/58490277-2b563880-816d-11e9-9d1e-669211bb0a6a.png)
 
 8. WORDPRESS. Les differents types de tactile. Dans : La technologie tactile [en ligne]. 22 novembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://tactiletpe.wordpress.com/lesdifferentstypesdetactiles/
 
