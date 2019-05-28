@@ -5,6 +5,7 @@ Vous étes dans la partie définition.
 Retour à l'[Accueil](tactiles.md).
 
 - **Définition**
+- [Histoire](histoire.md)
 - [Types](types.md)
 - [Fonctionnements](fonctionnement.md)
 - [Usage](usage.md)
