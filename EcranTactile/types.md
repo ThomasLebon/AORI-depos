@@ -8,9 +8,10 @@ Retour à l'[Accueil](tactiles.md).
 - [Fonctionnements](fonctionnement.md)
 - [Usage](usage.md)
 
-Dans cette partie de mon site vous pouvez trouvé les différents types d'écran tactile et aussi leur utilité, mais aussi leur fonctionnement.\
-      1.\
-      2.\
-      3.\
-      4.
+Dans cette partie de mon site vous pouvez trouvé les différents types d'écran tactile.\
+Mais aussi de leur spécificité et de leur.
+
+
+
+
 
