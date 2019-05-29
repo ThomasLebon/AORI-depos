@@ -10,8 +10,9 @@ Qui vous aiderons à la compréension des **écrans tactile**.\
 - [Définition](definition.md)
 - [Histoire](histoire.md)
 - [Types](types.md)
-- [Fonctionnements](fonctionnement.md)
 - [Usage](usage.md)
+- [Autre](autre.md)
+
 
 Le site est en partie pour aidé à la compréension de la technologie des **écrans tactiles** ou même de pouvoir faire un travail deçu (un travail de fin d'étude ou un travail de fin d'anné).
 
