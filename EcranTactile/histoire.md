@@ -6,8 +6,8 @@ Pour retourné à la première page [Accueil](tactiles.md).
 - [Définition](definition.md)
 - **Histoire**
 - [Types](types.md)
-- [Fonctionnements](fonctionnement.md)
 - [Usage](usage.md)
+- [Autre](autre.md)
 
 Dans cette parti du site vous pouvez trouver des sources avec comme lien l'histoire des écrans tactiles.\
 Je trouvais intérésant de revenir sur l'histoire de cette technologie.\
