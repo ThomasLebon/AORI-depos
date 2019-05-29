@@ -6,10 +6,10 @@ Retour à l'[Accueil](tactiles.md).
 - [Définition](definition.md)
 - [Histoire](histoire.md)
 - **Types et fonctionnemnts**
-- [Fonctionnements](fonctionnement.md)
 - [Usage](usage.md)
+- [Autre](autre.md)
 
-Dans cette partie de mon site vous pouvez trouvé les différents types d'écran tactile.\
+Dans cette partie de mon site vous pouvez trouvé les différents types d'écran tactile et leurs fonctinnement.\
 Mais aussi de leur spécificité et de leur style.
 
 (6.) TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Histoire](histoire.md) et [Fonctionnements](fonctionnement.md)
