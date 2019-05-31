@@ -29,6 +29,8 @@ Qui est maintenant dans notre cotidient tout les jours.
 
 ![1953](https://user-images.githubusercontent.com/50197114/58469286-7c4f3800-813f-11e9-82a6-f205b7807930.png)
 
+![1960-1972](https://user-images.githubusercontent.com/50197114/58732845-03780680-83f3-11e9-8ecd-525262d5e65f.png)
+
 6. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types](types.md) et [Fonctionnements](fonctionnements.md)
 
 ![Histoire](https://user-images.githubusercontent.com/50197114/58490175-f518b900-816c-11e9-8be5-4cd0b47d4703.png)
