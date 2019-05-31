@@ -18,49 +18,45 @@ Mais aussi de leur spécificité et de leur style.
 
 ![Les fonctionnements d'écran tactile](https://user-images.githubusercontent.com/50197114/58490179-f6e27c80-816c-11e9-857f-b73d2ab7ef16.png)
 
-7. Thierry. Les différents modèles de stylet pour écran interactif. Dans : Speechi [en ligne]. [s. d.]. [Consulté le 15 mai 2019]. Disponible à l’adresse : https://www.speechi.net/fr/2019/04/16/stylet-pour-ecran-interactif/
+7. WORDPRESS. Les differents types de tactile. Dans : La technologie tactile [en ligne]. 22 novembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://tactiletpe.wordpress.com/lesdifferentstypesdetactiles/
 
 
 
-8. WORDPRESS. Les differents types de tactile. Dans : La technologie tactile [en ligne]. 22 novembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://tactiletpe.wordpress.com/lesdifferentstypesdetactiles/
+8. FROMENT, Etienne. Les écrans tactiles de demain permettront de sentir différentes textures. Dans : Geeko [en ligne]. 9 octobre 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://geeko.lesoir.be/2013/10/09/les-ecrans-tactiles-de-demain-permettront-de-sentir-differentes-textures/
 
 
 
-9. FROMENT, Etienne. Les écrans tactiles de demain permettront de sentir différentes textures. Dans : Geeko [en ligne]. 9 octobre 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://geeko.lesoir.be/2013/10/09/les-ecrans-tactiles-de-demain-permettront-de-sentir-differentes-textures/
+9. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
 
 
 
-10. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
+10. TELEREX. Écran tactile [en ligne]. [s. d.]. [Consulté le 20 mai 2019]. Disponible à l’adresse : https://www.telerex-europe.com/fr-fr/ecran-tactile
 
 
 
-11. TELEREX. Écran tactile [en ligne]. [s. d.]. [Consulté le 20 mai 2019]. Disponible à l’adresse : https://www.telerex-europe.com/fr-fr/ecran-tactile
+11. STEVENS, Franck. Sciences Claires - Pourquoi les écrans tactiles ne fonctionnent-ils qu avec certains objets [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.vulgarisation-scientifique.com/wiki/Pages/Pourquoi_les_%C3%A9crans_tactiles_ne_fonctionnent-ils_qu_avec_certains_objets
 
 
 
-12. STEVENS, Franck. Sciences Claires - Pourquoi les écrans tactiles ne fonctionnent-ils qu avec certains objets [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.vulgarisation-scientifique.com/wiki/Pages/Pourquoi_les_%C3%A9crans_tactiles_ne_fonctionnent-ils_qu_avec_certains_objets
+12. AGC GLASS. La classe ajoutée pour les écrans multi-tactiles extra-larges. Dans : AGC Glass Europe [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.agc-glass.eu/fr/news/story/la-classe-ajoutee-pour-les-ecrans-multi-tactiles-extra-larges
 
 
 
-13. AGC GLASS. La classe ajoutée pour les écrans multi-tactiles extra-larges. Dans : AGC Glass Europe [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.agc-glass.eu/fr/news/story/la-classe-ajoutee-pour-les-ecrans-multi-tactiles-extra-larges
-
-
-
-14. DARTY & VOUS. 5 gestes à connaître pour maîtriser son écran tactile ! - Darty &amp; Vous [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.darty.com/darty-et-vous/high-tech/mobilite/tablettes/5-gestes-connaitre-pour-maitriser-son-ecran-tactile
+13. DARTY & VOUS. 5 gestes à connaître pour maîtriser son écran tactile ! - Darty &amp; Vous [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.darty.com/darty-et-vous/high-tech/mobilite/tablettes/5-gestes-connaitre-pour-maitriser-son-ecran-tactile
 
 ![Smarsphone et tablette](https://user-images.githubusercontent.com/50197114/58496253-ce14b400-8179-11e9-9d70-5cf7e32ce0c3.png)
 
-15. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
+14. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
 
 ![Doigt au stylet](https://user-images.githubusercontent.com/50197114/58495500-f7ccdb80-8177-11e9-96a3-d56d7f2b26e3.png)
 
-16. COULEUR SCIENCE. Comment fonctionne un écran tactile ? - [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile
+15. COULEUR SCIENCE. Comment fonctionne un écran tactile ? - [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile
 
 ![La constitution d'un écran tactile capacitif](https://user-images.githubusercontent.com/50197114/58498310-13d37b80-817e-11e9-9a52-1cfa7823d90c.png)
 
 ![Déformation du champ électrique après la pression du doigt](https://user-images.githubusercontent.com/50197114/58498412-48473780-817e-11e9-937f-92dc0cf6d920.png)
 
-17. L’INTERNAUTE. Comment...fonctionne un écran tactile ? [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.linternaute.com/science/technologie/comment/06/ecran-tactile/comment-ecran-tactile.shtml
+16. L’INTERNAUTE. Comment...fonctionne un écran tactile ? [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.linternaute.com/science/technologie/comment/06/ecran-tactile/comment-ecran-tactile.shtml
 
 ![Résitive](https://user-images.githubusercontent.com/50197114/58499502-99f0c180-8180-11e9-89e1-de9630cd307e.png)
 
