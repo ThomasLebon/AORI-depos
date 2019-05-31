@@ -20,27 +20,27 @@ Mais aussi de leur spécificité et de leur style.
 
 7. WORDPRESS. Les differents types de tactile. Dans : La technologie tactile [en ligne]. 22 novembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://tactiletpe.wordpress.com/lesdifferentstypesdetactiles/
 
-
+![Technologie resisitive: fonctionnement](https://user-images.githubusercontent.com/50197114/58733317-80f04680-83f4-11e9-8664-7bec1c7119ff.png)
 
 8. FROMENT, Etienne. Les écrans tactiles de demain permettront de sentir différentes textures. Dans : Geeko [en ligne]. 9 octobre 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://geeko.lesoir.be/2013/10/09/les-ecrans-tactiles-de-demain-permettront-de-sentir-differentes-textures/
 
-
+![](https://user-images.githubusercontent.com/50197114/58733941-543d2e80-83f6-11e9-8f58-4dc83627d46c.png)
 
 9. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
 
-
+![Résistif ou capacitif](https://user-images.githubusercontent.com/50197114/58735188-eabf1f00-83f9-11e9-819d-ace27dd17bd5.png)
 
 10. TELEREX. Écran tactile [en ligne]. [s. d.]. [Consulté le 20 mai 2019]. Disponible à l’adresse : https://www.telerex-europe.com/fr-fr/ecran-tactile
 
-
+![Ecran tactile](https://user-images.githubusercontent.com/50197114/58735234-117d5580-83fa-11e9-9440-83891361604d.png)
 
 11. STEVENS, Franck. Sciences Claires - Pourquoi les écrans tactiles ne fonctionnent-ils qu avec certains objets [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.vulgarisation-scientifique.com/wiki/Pages/Pourquoi_les_%C3%A9crans_tactiles_ne_fonctionnent-ils_qu_avec_certains_objets
 
-
+![Type d'ecran tactile](https://user-images.githubusercontent.com/50197114/58735259-2954d980-83fa-11e9-839c-5ce3fa69b0df.png)
 
 12. AGC GLASS. La classe ajoutée pour les écrans multi-tactiles extra-larges. Dans : AGC Glass Europe [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.agc-glass.eu/fr/news/story/la-classe-ajoutee-pour-les-ecrans-multi-tactiles-extra-larges
 
-
+![Ecran](https://user-images.githubusercontent.com/50197114/58735339-65883a00-83fa-11e9-9338-b1707f0c8e74.png)
 
 13. DARTY & VOUS. 5 gestes à connaître pour maîtriser son écran tactile ! - Darty &amp; Vous [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.darty.com/darty-et-vous/high-tech/mobilite/tablettes/5-gestes-connaitre-pour-maitriser-son-ecran-tactile
 
