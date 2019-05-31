@@ -1,11 +1,11 @@
 # Les écrans tactiles
-## Types
+## Types et fonctionements
 
 Retour à l'[Accueil](tactiles.md).
 
 - [Définition](definition.md)
 - [Histoire](histoire.md)
-- **Types et fonctionnemnts**
+- **Types et fonctionnements**
 - [Usage](usage.md)
 - [Autre](autre.md)
 
@@ -43,6 +43,7 @@ Mais aussi de leur spécificité et de leur style.
 
 
 13. AGC GLASS. La classe ajoutée pour les écrans multi-tactiles extra-larges. Dans : AGC Glass Europe [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.agc-glass.eu/fr/news/story/la-classe-ajoutee-pour-les-ecrans-multi-tactiles-extra-larges
+
 
 
 14. DARTY & VOUS. 5 gestes à connaître pour maîtriser son écran tactile ! - Darty &amp; Vous [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.darty.com/darty-et-vous/high-tech/mobilite/tablettes/5-gestes-connaitre-pour-maitriser-son-ecran-tactile
