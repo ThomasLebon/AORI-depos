@@ -67,3 +67,11 @@ Mais aussi de leur spécificité et de leur style.
 17. Types d’écrans tactiles : Tpe ecrans tactiles [en ligne]. [s. d.]. [Consulté le 3 juin 2019]. Disponible à l’adresse : https://tpe-ecrans-tactiles.wikeo.fr/types-decrans-tactiles.html
 
 ![Le fonctionnement des écrans tactiles](https://user-images.githubusercontent.com/50197114/58779848-55798180-85d7-11e9-83c3-19c2a39c506b.png)
+
+18. EIZO. Technologies des écrans tactiles - Landingpages [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://www.eizo.ch/fr/landingpages/technologies-camparees-des-ecrans-tactiles
+
+![Technologies des écrans tactiles](https://user-images.githubusercontent.com/50197114/58818886-3f97ab00-862f-11e9-8e99-c0283a880ca0.png)
+
+19. ECRANS TACTILES. Tout sur les écrans tactiles interactifs [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.ecrans-tactiles.com/
+
+![Les écrans tactiles Intéractif](https://user-images.githubusercontent.com/50197114/58818885-3f97ab00-862f-11e9-9fc2-ec125f7d3445.png)
