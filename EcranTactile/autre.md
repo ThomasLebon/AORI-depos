@@ -11,9 +11,9 @@ Retour à l'[Accueil](tactiles.md).
 
 Ici vous pouvez trouvé des informations sur des domaines que les écrans tactiles où je n'ai pas réussi a trouver plus de document pour le mettre dans une page complet.
 
-22. NANOTHÈSE. Nanothèse : les écrans tactiles [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/home
-
 23. NANOTHÈSE. III Enjeux sociaux et économique - Nanothèse : les écrans tactiles [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/iii-enjeux-sociaux-et-economique
+
+
 
 24. NANOTHÈSE. IV L’avenir du tactile - Nanothèse : les écrans tactiles [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/iv-l-avenir-du-tactile
 
