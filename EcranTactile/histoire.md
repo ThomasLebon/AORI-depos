@@ -5,7 +5,7 @@ Pour retourné à la première page [Accueil](tactiles.md).
 
 - [Définition](definition.md)
 - **Histoire**
-- [Types](types.md)
+- [Types_et_fonctionnement](types.md)
 - [Usage](usage.md)
 - [Autre](autre.md)
 
