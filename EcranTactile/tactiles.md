@@ -5,7 +5,7 @@ Vous étes à l'accueil de mon site.\
 Ce site internet vous aidera a comprendre ce-que-c'est un **écran tactile**.\
 \
 Sur cette page vous pouvez trouver ci-dessous des liens qui vont vous diriger vers d'autre partie du site.\
-Qui vous aiderons à la compréhension des **écrans tactile**.\
+Qui vous aiderons à la compréhension des **écrans tactile**.
 
 - [Définition](definition.md)
 - [Histoire](histoire.md)
