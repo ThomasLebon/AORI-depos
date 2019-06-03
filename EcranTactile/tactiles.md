@@ -9,7 +9,7 @@ Qui vous aiderons à la compréhension des **écrans tactile**.
 
 - [Définition](definition.md)
 - [Histoire](histoire.md)
-- [Types](types.md)
+- [Types_et_fonctionnement](types.md)
 - [Usage](usage.md)
 - [Autre](autre.md)
 
