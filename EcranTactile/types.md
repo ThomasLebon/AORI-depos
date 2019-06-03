@@ -63,3 +63,7 @@ Mais aussi de leur spécificité et de leur style.
 ![Infra rouge](https://user-images.githubusercontent.com/50197114/58499506-9c531b80-8180-11e9-99ee-aef9a3115665.png)
 
 ![Capacitive](https://user-images.githubusercontent.com/50197114/58499513-9f4e0c00-8180-11e9-8329-bd762956def4.png)
+
+Types d’écrans tactiles : Tpe ecrans tactiles [en ligne]. [s. d.]. [Consulté le 3 juin 2019]. Disponible à l’adresse : https://tpe-ecrans-tactiles.wikeo.fr/types-decrans-tactiles.html
+
+![Le fonctionnement des écrans tactiles](https://user-images.githubusercontent.com/50197114/58779848-55798180-85d7-11e9-83c3-19c2a39c506b.png)
