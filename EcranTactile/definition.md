@@ -6,7 +6,7 @@ Retour à l'[Accueil](tactiles.md).
 
 - **Définition**
 - [Histoire](histoire.md)
-- [Types](types.md)
+- [Types_et_fonctionnement](types.md)
 - [Usage](usage.md)
 - [Autre](autre.md)
 
