@@ -31,6 +31,6 @@ Vous pouvez trouver ici  des informations concernant d'autres thématiques ou do
 
 ![Le futur des écrans tactiles](https://user-images.githubusercontent.com/50197114/58818882-3eff1480-862f-11e9-935b-5e8db8eed34d.png)
 
-30. L’écran souple du smartphone du futur s’adaptera à tous les usages - Capital.fr [en ligne]. [s. d.]. [Consulté le 3 juin 2019]. Disponible à l’adresse : https://www.capital.fr/economie-politique/l-ecran-souple-du-smartphone-du-futur-s-adaptera-a-tous-les-usages-1195811
+30. L’écran souple du smartphone du futur s’adaptera à tous les usages - Capital.fr [en ligne]. [s. d.]. Dernière mise à jour 2017. [Consulté le 3 juin 2019]. Disponible à l’adresse : https://www.capital.fr/economie-politique/l-ecran-souple-du-smartphone-du-futur-s-adaptera-a-tous-les-usages-1195811
 
 ![L'écran souple du smartphone du futur s'adaptera à tous les usages](https://user-images.githubusercontent.com/50197114/58818881-3eff1480-862f-11e9-8e7f-2ab3b36d8d5c.png)
