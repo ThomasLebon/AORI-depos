@@ -9,9 +9,8 @@ Pour retourner à la première page [Accueil](tactiles.md).
 - [Usage](usage.md)
 - [Autre](autre.md)
 
-Dans cette parti du site vous pouvez trouver des sources avec comme lien l'histoire des écrans tactiles.\
-Je trouvais intérésant de revenir sur l'histoire de cette technologie.\
-Qui est maintenant dans notre cotidient tout les jours.
+Dans cette partie du site, vous pouvez trouver des sources en relation avec l'histoire des écrans tactiles.\
+Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est maintenant dans notre quotidien tous les jours.
 
 3. HISTOIRE CIGREF. Histoire des premiers écrans aux écrans tactiles. Dans : Histoire-cigref.org [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.histoire-cigref.org/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/
 
