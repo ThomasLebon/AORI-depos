@@ -7,7 +7,7 @@ Retour à l'[Accueil](tactiles.md).
 - **Usage**
 - [Autre](autre.md)
 
-Dans cette partie du site vous trouverez des documents qui parle de l'usage des écrans tactiles.
+Dans cette partie du site, vous trouverez des documents qui parlent de l'usage des écrans tactiles.
 
 20. COËFFÉ, Thomas. Étude IPSOS : l’usage des écrans tactiles en France. Dans : BDM [en ligne]. 30 septembre 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.blogdumoderateur.com/usage-tactile-france/
 
