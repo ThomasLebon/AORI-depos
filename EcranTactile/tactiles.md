@@ -1,10 +1,10 @@
 # Les écrans tactiles
 ## L'accueil
 Bienvenue sur mon site.\
-Vous étes à l'accueil de mon site.\
-Ce site internet vous aidera a comprendre ce-que-c'est un **écran tactile**.\
+Vous êtes à l'accueil de mon site.\
+Ce site internet vous aidera a comprendre ce qu'est un **écran tactile**.\
 \
-Sur cette page vous pouvez trouver ci-dessous des liens qui vont vous diriger vers d'autre partie du site.\
+Ci-desous, vous pouvez trouver des liens qui vous dirigeront vers d'autres parties du site.\
 Qui vous aiderons à la compréhension des **écrans tactile**.
 
 - [Définition](definition.md)
@@ -14,4 +14,4 @@ Qui vous aiderons à la compréhension des **écrans tactile**.
 - [Autre](autre.md)
 
 
-Le site est en partie pour aider à la compréhension de la technologie des **écrans tactiles** ou même de pouvoir faire un travail deçu (un travail de fin d'étude ou un travail de fin d'anné).
+Le site est en partie destiné à vous aider à la compréhension de la technologie des **écrans tactiles** ou même à pouvoir réaliser un travail tel qu'un travail de fin d'étude ou un travail de fin d'anné.
