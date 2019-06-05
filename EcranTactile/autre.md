@@ -9,7 +9,7 @@ Retour à l'[Accueil](tactiles.md).
 - [Usage](usage.md)
 - **Autre**
 
-Ici vous pouvez trouvé des informations sur des domaines que les écrans tactiles où je n'ai pas réussi a trouver plus de document pour le mettre dans une page complet.
+Vous pouvez trouver ici  des informations concernant d'autres thématiques ou domaines dans lesquels sont encore utilisés les écrans tactiles.
 
 25. NANOTHÈSE. III Enjeux sociaux et économique - Nanothèse : les écrans tactiles [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/iii-enjeux-sociaux-et-economique
 
