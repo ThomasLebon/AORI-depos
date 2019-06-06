@@ -45,9 +45,9 @@ Dans cette partie de mon site, vous pouvez trouver les différents types d'écra
 
 ![Smarsphone et tablette](https://user-images.githubusercontent.com/50197114/58496253-ce14b400-8179-11e9-9d70-5cf7e32ce0c3.png)
 
-14. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. [s. d.]. 2011. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
+14. Raphaël. Les gestes, les écrans tactiles et la littérature ! Dans : Le bloc-notes, UX & Design d’expérience utilisateur [en ligne]. [s. d.]. 2011. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://blocnotes.iergo.fr/breve/les-gestes-les-ecrans-tactiles-et-la-litterature/
 
-![Doigt au stylet](https://user-images.githubusercontent.com/50197114/58495500-f7ccdb80-8177-11e9-96a3-d56d7f2b26e3.png)
+![Geste des écrans tactiles](https://user-images.githubusercontent.com/50197114/59010427-881eb680-8831-11e9-85a7-962f49ac63a4.png)
 
 15. COULEUR SCIENCE. Comment fonctionne un écran tactile ? - [en ligne]. [s. d.]. 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile
 
