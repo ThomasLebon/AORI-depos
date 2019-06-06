@@ -5,7 +5,7 @@ Pour retourner à la première page [Accueil](tactiles.md).
 
 - [Définition](definition.md)
 - **Histoire**
-- [Types_et_fonctionnement](types.md)
+- [Types_et_fonctionnements](types.md)
 - [Usage](usage.md)
 - [Autre](autre.md)
 
@@ -30,6 +30,6 @@ Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est 
 
 ![1960-1972](https://user-images.githubusercontent.com/50197114/58732845-03780680-83f3-11e9-8ecd-525262d5e65f.png)
 
-6. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types](types.md) et [Fonctionnements](fonctionnements.md)
+6. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types_et_fonctionnements](types.md).
 
 ![Histoire](https://user-images.githubusercontent.com/50197114/58490175-f518b900-816c-11e9-8be5-4cd0b47d4703.png)
