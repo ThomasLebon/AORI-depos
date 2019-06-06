@@ -25,6 +25,6 @@ Dans cette partie du site, vous trouverez des documents qui parlent de l'usage d
 
 ![technologie apprécier](https://user-images.githubusercontent.com/50197114/58816871-b1212a80-862a-11e9-9bf7-4ae99e8b0920.png)
 
-24. NANOTHÈSE. Nanothèse : les écrans tactiles [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/home
+24. NANOTHÈSE. Nanothèse : les écrans tactiles [en ligne]. [s. d.]. 2009. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/home
 
 ![Usage](https://user-images.githubusercontent.com/50197114/58818092-8d131880-862d-11e9-82c7-89c185ee4811.png)
