@@ -12,11 +12,11 @@ Pour retourner à la première page [Accueil](tactiles.md).
 Dans cette partie du site, vous pouvez trouver des sources en relation avec l'histoire des écrans tactiles.\
 Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est maintenant dans notre quotidien tous les jours.
 
-3. HISTOIRE CIGREF. Histoire des premiers écrans aux écrans tactiles. Dans : Histoire-cigref.org [en ligne]. [s. d.]. 2016. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.histoire-cigref.org/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/
+3. HISTOIRE CIGREF. Histoire des premiers écrans aux écrans tactiles. Dans : Histoire-cigref.org [en ligne]. 2016. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.histoire-cigref.org/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/
 
 ![Histoire des écrans tactiles 1](https://user-images.githubusercontent.com/50197114/58464576-39d52d80-8136-11e9-814f-61124c6dad19.png)
 
-4. NANOTHÈSE. I Historique et évolution - Nanothèse : les écrans tactiles [en ligne]. [s. d.]. 2009[Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/i-historique-et-evolution
+4. NANOTHÈSE. I Historique et évolution - Nanothèse : les écrans tactiles [en ligne]. 2009. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/i-historique-et-evolution
 
 ![Le premier écran tactile en 1948](https://user-images.githubusercontent.com/50197114/58465717-90dc0200-8138-11e9-829c-ef753010eb3a.png)
 
@@ -30,6 +30,6 @@ Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est 
 
 ![1960-1972](https://user-images.githubusercontent.com/50197114/58732845-03780680-83f3-11e9-8ecd-525262d5e65f.png)
 
-6. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types_et_fonctionnements](types.md).
+6. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types_et_fonctionnements](types.md).
 
 ![Histoire](https://user-images.githubusercontent.com/50197114/58490175-f518b900-816c-11e9-8be5-4cd0b47d4703.png)
