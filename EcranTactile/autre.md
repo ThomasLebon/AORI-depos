@@ -23,7 +23,7 @@ Vous pouvez trouver ici  des informations concernant d'autres thématiques ou do
 
 ![Plein de nouveautés pour les écrans tactiles collaboratifs](https://user-images.githubusercontent.com/50197114/58818887-3f97ab00-862f-11e9-90fb-9768da7f0cee.png)
 
-28. Ecrans tactiles interactifs : ce qu’il faut savoir. Dans : Le guide de l’écran interactif [en ligne]. [s. d.]. [Consulté le 3 juin 2019]. Disponible à l’adresse : http://www.ecran-interactif.com/
+28. Ecrans tactiles interactifs : ce qu’il faut savoir. Dans : Le guide de l’écran interactif [en ligne]. [s. d.]. 20xx. [Consulté le 3 juin 2019]. Disponible à l’adresse : http://www.ecran-interactif.com/
 
 ![Ecrans tactiles interactifs](https://user-images.githubusercontent.com/50197114/58818883-3eff1480-862f-11e9-9062-0a2ab164a7c0.png)
 
