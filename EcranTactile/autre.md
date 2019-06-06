@@ -11,11 +11,11 @@ Retour à l'[Accueil](tactiles.md).
 
 Vous pouvez trouver ici  des informations concernant d'autres thématiques ou domaines dans lesquels sont encore utilisés les écrans tactiles.
 
-25. NANOTHÈSE. III Enjeux sociaux et économique - Nanothèse : les écrans tactiles [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/iii-enjeux-sociaux-et-economique
+25. NANOTHÈSE. III Enjeux sociaux et économique - Nanothèse : les écrans tactiles [en ligne]. [s. d.]. 2009. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/iii-enjeux-sociaux-et-economique
 
 ![Enjeux sociaux et économique - Nanothèse](https://user-images.githubusercontent.com/50197114/58818889-3f97ab00-862f-11e9-9fcb-98764153a807.png)
 
-26. NANOTHÈSE. IV L’avenir du tactile - Nanothèse : les écrans tactiles [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/iv-l-avenir-du-tactile
+26. NANOTHÈSE. IV L’avenir du tactile - Nanothèse : les écrans tactiles [en ligne]. [s. d.]. 2009. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/iv-l-avenir-du-tactile
 
 ![L'avenir du tactile](https://user-images.githubusercontent.com/50197114/58818888-3f97ab00-862f-11e9-85bc-e51c204836d0.png)
 
