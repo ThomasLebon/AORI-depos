@@ -10,7 +10,7 @@ Retour à l'[Accueil](tactiles.md).
 - [Usage](usage.md)
 - [Autre](autre.md)
 
-1. L’INTERNAUTE. Ecran tactile : Définition simple et facile du dictionnaire [en ligne]. [s. d.]. 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.linternaute.fr/dictionnaire/fr/definition/ecran-tactile/
+1. L’INTERNAUTE. Ecran tactile : Définition simple et facile du dictionnaire [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.linternaute.fr/dictionnaire/fr/definition/ecran-tactile/
 
 ![Définition des écrans tactiles](https://user-images.githubusercontent.com/50197114/58384446-db973600-7fe1-11e9-8f39-97128c36b9ad.png)
 
