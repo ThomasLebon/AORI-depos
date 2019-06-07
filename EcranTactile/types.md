@@ -11,7 +11,7 @@ Retour à l'[Accueil](tactiles.md).
 
 Dans cette partie de mon site, vous pouvez trouver les différents types d'écran tactile et leur fonctionnement mais aussi leur spécificité et leur style.
 
-(6.) TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. [s. d.]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Histoire](histoire.md).
+(6.) TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Histoire](histoire.md).
 
 ![Types](https://user-images.githubusercontent.com/50197114/58490277-2b563880-816d-11e9-9d1e-669211bb0a6a.png)
 
@@ -25,37 +25,37 @@ Dans cette partie de mon site, vous pouvez trouver les différents types d'écra
 
 ![](https://user-images.githubusercontent.com/50197114/58733941-543d2e80-83f6-11e9-8f58-4dc83627d46c.png)
 
-9. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. [s. d.]. 2011. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
+9. PICARD, François. Du doigt au stylet, un pas vite franchi. Dans : Direction Informatique [en ligne]. 2011. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.directioninformatique.com/du-doigt-au-stylet-un-pas-vite-franchi/11952
 
 ![Résistif ou capacitif](https://user-images.githubusercontent.com/50197114/58735188-eabf1f00-83f9-11e9-819d-ace27dd17bd5.png)
 
-10. TELEREX. Écran tactile [en ligne]. [s. d.]. Dernière mis à jour 2019. [Consulté le 20 mai 2019]. Disponible à l’adresse : https://www.telerex-europe.com/fr-fr/ecran-tactile
+10. TELEREX. Écran tactile [en ligne]. Dernière mis à jour 2019. [Consulté le 20 mai 2019]. Disponible à l’adresse : https://www.telerex-europe.com/fr-fr/ecran-tactile
 
 ![Ecran tactile](https://user-images.githubusercontent.com/50197114/58735234-117d5580-83fa-11e9-9440-83891361604d.png)
 
-11. STEVENS, Franck. Sciences Claires - Pourquoi les écrans tactiles ne fonctionnent-ils qu avec certains objets [en ligne]. [s. d.]. Dernière mise à jour le 11 janvier 2015. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.vulgarisation-scientifique.com/wiki/Pages/Pourquoi_les_%C3%A9crans_tactiles_ne_fonctionnent-ils_qu_avec_certains_objets
+11. STEVENS, Franck. Sciences Claires - Pourquoi les écrans tactiles ne fonctionnent-ils qu avec certains objets [en ligne]. Dernière mise à jour le 11 janvier 2015. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.vulgarisation-scientifique.com/wiki/Pages/Pourquoi_les_%C3%A9crans_tactiles_ne_fonctionnent-ils_qu_avec_certains_objets
 
 ![Type d'ecran tactile](https://user-images.githubusercontent.com/50197114/58735259-2954d980-83fa-11e9-839c-5ce3fa69b0df.png)
 
-12. AGC GLASS. La classe ajoutée pour les écrans multi-tactiles extra-larges. Dans : AGC Glass Europe [en ligne]. [s. d.]. 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.agc-glass.eu/fr/news/story/la-classe-ajoutee-pour-les-ecrans-multi-tactiles-extra-larges
+12. AGC GLASS. La classe ajoutée pour les écrans multi-tactiles extra-larges. Dans : AGC Glass Europe [en ligne]. 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.agc-glass.eu/fr/news/story/la-classe-ajoutee-pour-les-ecrans-multi-tactiles-extra-larges
 
 ![Ecran](https://user-images.githubusercontent.com/50197114/58735339-65883a00-83fa-11e9-9338-b1707f0c8e74.png)
 
-13. DARTY & VOUS. 5 gestes à connaître pour maîtriser son écran tactile ! - Darty &amp; Vous [en ligne]. [s. d.]. 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.darty.com/darty-et-vous/high-tech/mobilite/tablettes/5-gestes-connaitre-pour-maitriser-son-ecran-tactile
+13. DARTY & VOUS. 5 gestes à connaître pour maîtriser son écran tactile ! - Darty &amp; Vous [en ligne]. 2019. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.darty.com/darty-et-vous/high-tech/mobilite/tablettes/5-gestes-connaitre-pour-maitriser-son-ecran-tactile
 
 ![Smarsphone et tablette](https://user-images.githubusercontent.com/50197114/58496253-ce14b400-8179-11e9-9d70-5cf7e32ce0c3.png)
 
-14. Raphaël. Les gestes, les écrans tactiles et la littérature ! Dans : Le bloc-notes, UX & Design d’expérience utilisateur [en ligne]. [s. d.]. 2011. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://blocnotes.iergo.fr/breve/les-gestes-les-ecrans-tactiles-et-la-litterature/
+14. Raphaël. Les gestes, les écrans tactiles et la littérature ! Dans : Le bloc-notes, UX & Design d’expérience utilisateur [en ligne]. 2011. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://blocnotes.iergo.fr/breve/les-gestes-les-ecrans-tactiles-et-la-litterature/
 
 ![Geste des écrans tactiles](https://user-images.githubusercontent.com/50197114/59010427-881eb680-8831-11e9-85a7-962f49ac63a4.png)
 
-15. COULEUR SCIENCE. Comment fonctionne un écran tactile ? - [en ligne]. [s. d.]. 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile
+15. COULEUR SCIENCE. Comment fonctionne un écran tactile ? - [en ligne]. 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile
 
 ![La constitution d'un écran tactile capacitif](https://user-images.githubusercontent.com/50197114/58498310-13d37b80-817e-11e9-9a52-1cfa7823d90c.png)
 
 ![Déformation du champ électrique après la pression du doigt](https://user-images.githubusercontent.com/50197114/58498412-48473780-817e-11e9-937f-92dc0cf6d920.png)
 
-16. L’INTERNAUTE. Comment...fonctionne un écran tactile ? [en ligne]. [s. d.]. 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.linternaute.com/science/technologie/comment/06/ecran-tactile/comment-ecran-tactile.shtml
+16. L’INTERNAUTE. Comment...fonctionne un écran tactile ? [en ligne]. 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.linternaute.com/science/technologie/comment/06/ecran-tactile/comment-ecran-tactile.shtml
 
 ![Résitive](https://user-images.githubusercontent.com/50197114/58499502-99f0c180-8180-11e9-89e1-de9630cd307e.png)
 
@@ -63,14 +63,14 @@ Dans cette partie de mon site, vous pouvez trouver les différents types d'écra
 
 ![Capacitive](https://user-images.githubusercontent.com/50197114/58499513-9f4e0c00-8180-11e9-8329-bd762956def4.png)
 
-17. Types d’écrans tactiles : Tpe ecrans tactiles [en ligne]. [s. d.]. 201x. [Consulté le 3 juin 2019]. Disponible à l’adresse : https://tpe-ecrans-tactiles.wikeo.fr/types-decrans-tactiles.html
+17. Types d’écrans tactiles : Tpe ecrans tactiles [en ligne]. [s. d.]. [Consulté le 3 juin 2019]. Disponible à l’adresse : https://tpe-ecrans-tactiles.wikeo.fr/types-decrans-tactiles.html
 
 ![Le fonctionnement des écrans tactiles](https://user-images.githubusercontent.com/50197114/58779848-55798180-85d7-11e9-83c3-19c2a39c506b.png)
 
-18. EIZO. Technologies des écrans tactiles - Landingpages [en ligne]. [s. d.]. 2019. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://www.eizo.ch/fr/landingpages/technologies-camparees-des-ecrans-tactiles
+18. EIZO. Technologies des écrans tactiles - Landingpages [en ligne]. 2019. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://www.eizo.ch/fr/landingpages/technologies-camparees-des-ecrans-tactiles
 
 ![Technologies des écrans tactiles](https://user-images.githubusercontent.com/50197114/58818886-3f97ab00-862f-11e9-8e99-c0283a880ca0.png)
 
-19. ECRANS TACTILES. Tout sur les écrans tactiles interactifs [en ligne]. [s. d.]. 201x. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.ecrans-tactiles.com/
+19. ECRANS TACTILES. Tout sur les écrans tactiles interactifs [en ligne]. [s. d.]. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://www.ecrans-tactiles.com/
 
 ![Les écrans tactiles Intéractif](https://user-images.githubusercontent.com/50197114/58818885-3f97ab00-862f-11e9-9fc2-ec125f7d3445.png)
