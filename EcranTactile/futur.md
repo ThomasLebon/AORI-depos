@@ -7,7 +7,7 @@ Retour à l'[Accueil](tactiles.md).
 - [Histoire](histoire.md)
 - **Types et fonctionnements**
 - [Usage](usage.md)
-- [Autre](autre.md)
+- [Futur](futur.md)
 
 Dans cette partie de mon site, vous pouvez trouver les différents types d'écran tactile et leur fonctionnement mais aussi leur spécificité et leur style.
 
