@@ -1,5 +1,5 @@
 # Les écrans tactiles
-## Les autres des écrans tactiles
+## Le futur des écrans tactiles
 
 Retour à l'[Accueil](tactiles.md).
 
