@@ -7,7 +7,7 @@ Retour à l'[Accueil](tactiles.md).
 - [Histoire](histoire.md)
 - [Types_et_fonctionnement](types.md)
 - [Usage](usage.md)
-- **Autre**
+- **Futur**
 
 Vous pouvez trouver ici  des informations concernant d'autres thématiques ou domaines dans lesquels sont encore utilisés les écrans tactiles.
 
