@@ -7,7 +7,7 @@ Pour retourner à la première page [Accueil](tactiles.md).
 - **Histoire**
 - [Types_et_fonctionnements](types.md)
 - [Usage](usage.md)
-- [Autre](autre.md)
+- [Futur](futur.md)
 
 Dans cette partie du site, vous pouvez trouver des sources en relation avec l'histoire des écrans tactiles.\
 Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est maintenant dans notre quotidien tous les jours.
