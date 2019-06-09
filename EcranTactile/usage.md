@@ -5,7 +5,7 @@ Retour à l'[Accueil](tactiles.md).
 - [Histoire](histoire.md)
 - [Types_et_fonctionnement](types.md)
 - **Usage**
-- [Futur](Futur.md)
+- [Futur](futur.md)
 
 Dans cette partie du site, vous trouverez des documents qui parlent de l'usage des écrans tactiles.
 
