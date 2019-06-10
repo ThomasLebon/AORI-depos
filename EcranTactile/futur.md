@@ -23,6 +23,8 @@ Vous pouvez trouver ici  des informations concernant le futur des écrans tactil
 
 ![L'écran souple du smartphone du futur s'adaptera à tous les usages](https://user-images.githubusercontent.com/50197114/58818881-3eff1480-862f-11e9-8e7f-2ab3b36d8d5c.png)
 
+![L'écran tactile futur](https://user-images.githubusercontent.com/50197114/59185049-c852a180-8b6f-11e9-8aac-65f326bc151b.png)
+
 28. Le futur des écrans tactiles se prépare chez Synaptics, le créateurs des écrans ClearTouch. Dans : FrAndroid [en ligne]. 13 janvier 2016. [Consulté le 3 juin 2019]. Disponible à l’adresse : https://www.frandroid.com/hardware/335663_le-futur-des-ecrans-tactiles-selon-synaptics
 
 ![Le futur des écrans tactiles](https://user-images.githubusercontent.com/50197114/58818882-3eff1480-862f-11e9-935b-5e8db8eed34d.png)
