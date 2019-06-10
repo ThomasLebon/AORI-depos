@@ -1,7 +1,7 @@
 # Les écrans tactiles
 ## Histoire des écrans tactiles
 
-Pour retourner à la première page [Accueil](tactiles.md).
+Pour retourner à la première page [Accueil](accueil.md).
 
 - [Définition](definition.md)
 - **Histoire**
