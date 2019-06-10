@@ -14,7 +14,7 @@ Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est 
 
 3. HISTOIRE CIGREF. Histoire des premiers écrans aux écrans tactiles. Dans : Histoire-cigref.org [en ligne]. 2016. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.histoire-cigref.org/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/
 
-  ![Histoire des écrans tactiles 1](https://user-images.githubusercontent.com/50197114/58464576-39d52d80-8136-11e9-814f-61124c6dad19.png)
+ ![Histoire des écrans tactiles 1](https://user-images.githubusercontent.com/50197114/58464576-39d52d80-8136-11e9-814f-61124c6dad19.png)
 
 4. NANOTHÈSE. I Historique et évolution - Nanothèse : les écrans tactiles [en ligne]. 2009. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/i-historique-et-evolution
 
