@@ -15,6 +15,8 @@ Dans cette partie de mon site, vous pouvez trouver les différents types d'écra
 
 ![Ecran](https://user-images.githubusercontent.com/50197114/58735339-65883a00-83fa-11e9-9338-b1707f0c8e74.png)
 
+![Ecran tactile verre tirextreme](https://user-images.githubusercontent.com/50197114/59184416-60e82200-8b6e-11e9-8c71-9f5c29096045.png)
+
 8. COULEUR SCIENCE. Comment fonctionne un écran tactile ? - [en ligne]. 2014. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile
 
 ![La constitution d'un écran tactile capacitif](https://user-images.githubusercontent.com/50197114/58498310-13d37b80-817e-11e9-9a52-1cfa7823d90c.png)
