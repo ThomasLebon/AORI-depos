@@ -1,6 +1,6 @@
 # Les écrans tactiles
 ## Les usages des écrans tactiles
-Retour à l'[Accueil](tactiles.md).
+Retour à l'[Accueil](accueil.md).
 - [Définition](definition.md)
 - [Histoire](histoire.md)
 - [Types_et_fonctionnement](types.md)
