@@ -1,7 +1,7 @@
 # Les écrans tactiles
 ## Le futur des écrans tactiles
 
-Retour à l'[Accueil](tactiles.md).
+Retour à l'[Accueil](accueil.md).
 
 - [Définition](definition.md)
 - [Histoire](histoire.md)
