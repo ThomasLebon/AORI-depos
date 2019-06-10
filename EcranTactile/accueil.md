@@ -1,7 +1,7 @@
 # Les écrans tactiles
 ## L'accueil
-Bienvenue sur mon site.\
-Vous êtes à l'accueil de mon site.\
+Bienvenue sur mon site.
+Vous êtes à l'accueil de mon site.
 Ce site internet vous aidera a comprendre ce qu'est un **écran tactile**.\
 \
 Ci-desous, vous pouvez trouver des liens qui vous dirigeront vers d'autres parties du site.
