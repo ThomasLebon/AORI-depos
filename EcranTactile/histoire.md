@@ -12,11 +12,11 @@ Pour retourner à la première page [Accueil](accueil.md).
 Dans cette partie du site, vous pouvez trouver des sources en relation avec l'histoire des écrans tactiles.\
 Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est maintenant dans notre quotidien tous les jours.
 
-1. HISTOIRE CIGREF. Histoire des premiers écrans aux écrans tactiles. Dans : Histoire-cigref.org [en ligne]. 2016. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.histoire-cigref.org/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/
+1. 03 HISTOIRE CIGREF. Histoire des premiers écrans aux écrans tactiles. Dans : Histoire-cigref.org [en ligne]. 2016. [Consulté le 2 mai 2019]. Disponible à l’adresse : http://www.histoire-cigref.org/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/
 
     ![Histoire des écrans tactiles 1](https://user-images.githubusercontent.com/50197114/58464576-39d52d80-8136-11e9-814f-61124c6dad19.png)
 
-2. NANOTHÈSE. I Historique et évolution - Nanothèse : les écrans tactiles [en ligne]. 2009. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/i-historique-et-evolution
+2. 04 NANOTHÈSE. I Historique et évolution - Nanothèse : les écrans tactiles [en ligne]. 2009. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://sites.google.com/site/nanotheselesecrantactile/i-historique-et-evolution
 
     ![Le premier écran tactile en 1948](https://user-images.githubusercontent.com/50197114/58465717-90dc0200-8138-11e9-829c-ef753010eb3a.png)
 
@@ -24,11 +24,11 @@ Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est 
 
     ![Les années 2000](https://user-images.githubusercontent.com/50197114/58465720-90dc0200-8138-11e9-8b28-378b6a287eb9.png)
 
-3. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types_et_fonctionnements](types.md).
+3. 05 TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types_et_fonctionnements](types.md).
 
     ![Histoire](https://user-images.githubusercontent.com/50197114/58490175-f518b900-816c-11e9-8be5-4cd0b47d4703.png)
 
-4. WORDPRESS. La naissance du tactile. Dans : La technologie tactile [en ligne]. 22 novembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://tactiletpe.wordpress.com/histoire/
+4. 06 WORDPRESS. La naissance du tactile. Dans : La technologie tactile [en ligne]. 22 novembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://tactiletpe.wordpress.com/histoire/
 
     ![1953](https://user-images.githubusercontent.com/50197114/58469286-7c4f3800-813f-11e9-82a6-f205b7807930.png)
 
