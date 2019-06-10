@@ -24,12 +24,14 @@ Je trouvais intéressant de revenir sur l'histoire de cette technologie qui est 
 
 ![Les années 2000](https://user-images.githubusercontent.com/50197114/58465720-90dc0200-8138-11e9-8b28-378b6a287eb9.png)
 
-5. WORDPRESS. La naissance du tactile. Dans : La technologie tactile [en ligne]. 22 novembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://tactiletpe.wordpress.com/histoire/
+5. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types_et_fonctionnements](types.md).
+
+![Histoire](https://user-images.githubusercontent.com/50197114/58490175-f518b900-816c-11e9-8be5-4cd0b47d4703.png)
+
+6. WORDPRESS. La naissance du tactile. Dans : La technologie tactile [en ligne]. 22 novembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://tactiletpe.wordpress.com/histoire/
 
 ![1953](https://user-images.githubusercontent.com/50197114/58469286-7c4f3800-813f-11e9-82a6-f205b7807930.png)
 
 ![1960-1972](https://user-images.githubusercontent.com/50197114/58732845-03780680-83f3-11e9-8ecd-525262d5e65f.png)
 
-6. TPE IMPACT ÉCRAN. Les écrans Tactile [en ligne]. 2013. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://tpe-impact-ecran.site44.com/Tactile.html voir [Types_et_fonctionnements](types.md).
 
-![Histoire](https://user-images.githubusercontent.com/50197114/58490175-f518b900-816c-11e9-8be5-4cd0b47d4703.png)
